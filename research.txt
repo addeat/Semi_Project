@@ -1,8 +1,0 @@
-코로나 이전과 이후 영화산업 매출 변화 2013~2020 통계청 : https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1027211&conn_path=I2
-OTT시장참고자료:https://mediasvr.egentouch.com/egentouch.media/apiFile.do?action=view&SCHOOL_ID=1007002&URL_KEY=c2c3628a-5d79-4b4d-815f-bdaa93be56f0
-
-노인학대 유형별 학대행위자와 학대피해노인과의 관계 13'~18'까지는 아들의 비율이 제일 높았으나, 19'부터 배우자의 비율이 높아지게 됨. 
-https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5027&conn_path=I2
-보건복지부,「노인학대현황」, 2021, 2023.02.22, 노인학대 유형별 학대행위자와 학대피해노인과의 관계 - 그래프 초기는 정서적학대가 신체적학대의 2배 근처였으나
-신체적학대 또한 정서적학대와 비슷한 수준으로 크게 증가함.
-https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5024&conn_path=I2
