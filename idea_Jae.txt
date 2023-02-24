@@ -1,0 +1,10 @@
+ ott 서비스에 따른 영화관 관람객 이용자수의 추이  
+
+ 코로나 확진자 수에 따른 여행 관람객 수의 차이
+ https://know.tour.go.kr/
+
+ 비트코인 가격에 따른 특정or 대부분 그래픽 카드 가격의 차이 
+ 주식 데이터 파싱 https://jjeongil.tistory.com/656
+ web crawling https://blog.naver.com/PostView.naver?blogId=kkang2yah&logNo=222235729656
+	
+
